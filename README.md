@@ -17,7 +17,7 @@ This was developed to complete [this challenge](https://efficient-sloth-d85.noti
 
 ## 📺 Responsive test
 
-https://user-images.githubusercontent.com/41124671/177418850-8f20174d-a77b-417d-a48c-f57ff236683e.mp4
+https://user-images.githubusercontent.com/41124671/177433718-709b005b-fa6b-4b69-81b2-8c28e98aa3c4.mp4
 
 ## 🔖 Original layout
 
